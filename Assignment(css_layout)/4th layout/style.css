@@ -1,0 +1,22 @@
+body{
+	margin:0;
+	color:#FFFFFF;
+	text-align:center;
+}
+.header{
+	background:#d35400;
+	overflow:hidden;
+}
+.navigation{
+	background:#3A3A3A;
+	overflow:hidden;
+}
+.content{
+	background:#686F81;
+	min-height:400px;
+	overflow:hidden;
+}
+.footer{
+	background:#d35400;
+	overflow:hidden;
+}

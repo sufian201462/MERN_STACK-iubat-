@@ -1,0 +1,38 @@
+body{
+	margin:0;
+}
+.header{
+	background:#8e44ad;
+	color:#FFFFFF;
+	overflow:hidden;
+	text-align:center;
+}
+.menu{
+	background:#5E5E5E;
+	color:#FFFFFF;
+	text-align:center;
+	overflow:hidden;
+}
+.content{
+	overflow:hidden;
+}
+.sidebar{
+	background:#95a5a6;
+	width:16%;
+	float:left;
+	min-height:350px;
+	padding:2%;
+}
+.main-content{
+	background:#C5C5C5;
+	width:76%;
+	overflow:hidden;
+	min-height:350px;
+	padding:2%;
+	text-align:center;
+}
+.footer{
+	background:#9b59b6;
+	overflow:hidden;
+	text-align:center;
+}
